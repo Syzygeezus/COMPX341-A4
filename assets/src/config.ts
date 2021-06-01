@@ -1,3 +1,5 @@
+// Name: Ryan Monaghan  ID: 1514614
+
 export default {
   apiGateway: {
     REGION: "us-east-1",

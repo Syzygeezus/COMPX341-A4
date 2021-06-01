@@ -1,3 +1,5 @@
+// Name: Ryan Monaghan  ID: 1514614
+
 export const categories = {
   cooks: "Cookbooks",
   database: "Database",
