@@ -13,6 +13,7 @@ npm run build
 cd src/__tests__
 npm run test
 cd ../../../
+echo Complete!
 
 # git add .
 # git commit -m $1
