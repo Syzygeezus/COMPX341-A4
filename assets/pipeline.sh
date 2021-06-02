@@ -10,6 +10,9 @@ echo 'Static check passed!'
 # Run build
 npm install
 npm run build
+cd src/__tests__
+npm run test
+cd ../../../
 
 # git add .
 # git commit -m $1
